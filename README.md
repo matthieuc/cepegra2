@@ -1,3 +1,3 @@
 # cepegra2
 
-on ajoute
+on ajoute et on rajoute
